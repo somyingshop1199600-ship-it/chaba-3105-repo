@@ -7,7 +7,7 @@ Public package catalog maintained by somyingshop1199600-ship-it.
 
 ## Contents
 
-The catalog currently has no packages. Place packages approved for public distribution in `packages/` and add their metadata, download URL, SHA256, size and confirmed OS compatibility to `repo.json`.
+CHABA CLEAN 1.64.1 is the byte-identical bundled patch from Build 13, targeting RoV resources 1.64.1. Its original catalog OS range is retained; this is not a claim of game-device validation on every OS. Package integrity has been checked, but the game operation has not been tested here.
 
 Do not include login cookies, session tokens, passwords, signing credentials or GitHub access tokens.
 
