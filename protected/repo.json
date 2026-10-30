@@ -30,6 +30,26 @@
         "cipherSize": 274703,
         "keyDelivery": "licensed-server-only"
       }
+    },
+    {
+      "identifier": "chaba-map-hok-sceneonly",
+      "kind": "patch",
+      "name": "Map HOK",
+      "author": "CHABA",
+      "version": "1.64.1-sceneonly-test",
+      "summary": "Map HOK",
+      "description": "Map HOK",
+      "download": "https://github.com/somyingshop1199600-ship-it/chaba-3105-repo/releases/download/map-hok-1.64.1-test-20261030/CHABA_MapHOK_TH_SceneOnly_TEST_1.64.1.3105",
+      "sha256": "71446be41adcdb640e65b719330ea9e2d59fcb57a3eda7c1fc5f5d0ebafbd618",
+      "size": 150999836,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "99.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ],
   "icon": "../assets/repo-icon-20261028.jpg"
