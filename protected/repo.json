@@ -9,12 +9,12 @@
       "kind": "patch",
       "name": "CHABA CLEAN 1.64.1",
       "author": "CHABA",
-      "version": "1.64.1-clean-percent",
+      "version": "1.64.1-camera-2p7-1p6-2p21.20261031",
       "summary": "ROV CHABA",
-      "description": "ROV CHABA",
+      "description": "• แก้ไขเมนูให้กดง่ายขึ้น\n• ปรับมุมมองในตั้งค่าเกม:\n  - ใกล้: มุมมองสูงสุด\n  - ไกล: มุมมองระดับกลาง ใกล้เคียง iPhone และสูงขึ้นเล็กน้อย\n  - ไกลมาก: มุมมองใกล้เคียง iPad และสูงขึ้นเล็กน้อย\n• เพิ่มมุมมองสูงในเมนู แต่ยังมีบั๊กกับฮีโร่ที่ใช้สกิลซูมกล้อง",
       "download": "packages/chaba-clean-percent-1.64.1-clean-percent.20261029-r1.3105",
-      "sha256": "362dabc7cee23ead6484bdcca0cffa4cc79a9dd419f66f90958e00667217d9cf",
-      "size": 274430,
+      "sha256": "5a9636882edea6b27537fd8074dfa144b3d6b141a6f8c468be58e274f99f6290",
+      "size": 286718,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -26,8 +26,8 @@
       "encryption": {
         "format": "CBENC001",
         "revision": "1.64.1-clean-percent.20261029-r1",
-        "cipherSha256": "c721988a17e8e05c3419fb0c0811ade7f4e8f740ce42dde307ec162af058165b",
-        "cipherSize": 274703,
+        "cipherSha256": "2e48d589a672fe4f5de209aa687488eaf2ab00a118ead47ca23b15140d8f65d2",
+        "cipherSize": 286991,
         "keyDelivery": "licensed-server-only"
       }
     },

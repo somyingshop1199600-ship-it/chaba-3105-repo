@@ -7,7 +7,7 @@ Public package catalog maintained by somyingshop1199600-ship-it.
 
 ## Contents
 
-CHABA CLEAN 1.64.1 is the byte-identical bundled patch from Build 13, targeting RoV resources 1.64.1. Its original catalog OS range is retained; this is not a claim of game-device validation on every OS. Package integrity has been checked, but the game operation has not been tested here.
+CHABA CLEAN 1.64.1 contains the owner-supplied ROV CHABA update with camera-setting values 2.70 / 1.60 / 2.21. Both catalogs point to the encrypted package used by Build 16 and its licensed key service. Map HOK is retained separately. The original catalog OS range is retained; this is not a claim of game-device validation on every OS.
 
 Do not include login cookies, session tokens, passwords, signing credentials or GitHub access tokens.
 
