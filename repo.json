@@ -9,10 +9,10 @@
       "kind": "patch",
       "name": "CHABA",
       "author": "CHABA",
-      "version": "1.64.1-chaba-noslider.20261101",
+      "version": "1.64.1-chaba-noslider.20261101-r2",
       "summary": "ROV CHABA",
       "description": "• แก้ไขเมนูให้กดง่ายขึ้น\n• ปรับมุมมองในตั้งค่าเกม:\n  - ใกล้: มุมมองสูงสุด\n  - ไกล: มุมมองระดับกลาง ใกล้เคียง iPhone และสูงขึ้นเล็กน้อย\n  - ไกลมาก: มุมมองใกล้เคียง iPad และสูงขึ้นเล็กน้อย\n• เพิ่มมุมมองสูงในเมนู แต่ยังมีบั๊กกับฮีโร่ที่ใช้สกิลซูมกล้อง\n• แก้ไขออโต้เอ็กคิ้วและฟาร์มป่าไม่ทำงาน",
-      "download": "protected/packages/CHABA.3105",
+      "download": "protected/packages/chaba-clean-percent-1.64.1-clean-percent.20261029-r1.3105",
       "sha256": "4194ffe9f44ee95e04d3199884692c82aefce4ab8866be2ceb41bf23b9949cb9",
       "size": 290990,
       "supportedOS": [
