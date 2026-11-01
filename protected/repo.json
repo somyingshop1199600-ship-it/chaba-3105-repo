@@ -7,14 +7,14 @@
     {
       "identifier": "chaba-clean-percent",
       "kind": "patch",
-      "name": "CHABA CLEAN 1.64.1",
+      "name": "CHABA",
       "author": "CHABA",
-      "version": "1.64.1-camera-2p7-1p6-2p21-keyrecovery-test.20261031",
+      "version": "1.64.1-chaba-noslider.20261101",
       "summary": "ROV CHABA",
-      "description": "• แก้ไขเมนูให้กดง่ายขึ้น\n• ปรับมุมมองในตั้งค่าเกม:\n  - ใกล้: มุมมองสูงสุด\n  - ไกล: มุมมองระดับกลาง ใกล้เคียง iPhone และสูงขึ้นเล็กน้อย\n  - ไกลมาก: มุมมองใกล้เคียง iPad และสูงขึ้นเล็กน้อย\n• เพิ่มมุมมองสูงในเมนู แต่ยังมีบั๊กกับฮีโร่ที่ใช้สกิลซูมกล้อง\n• [รุ่นทดสอบ KeyRecovery] ปรับการตรวจคีย์เมื่อเกิด K10/เซิร์ฟเวอร์ขัดข้อง ให้ลองใหม่อัตโนมัติ โดยไม่ต่ออายุสิทธิ์เอง และคงการหยุดเมื่อคีย์หมดอายุจริง",
-      "download": "packages/chaba-clean-percent-1.64.1-clean-percent.20261029-r1.3105",
-      "sha256": "9f124e6c363deaa53f83011bd8b3b2d52f4548c6049a1461f508d5b0f4f74b69",
-      "size": 287134,
+      "description": "• แก้ไขเมนูให้กดง่ายขึ้น\n• ปรับมุมมองในตั้งค่าเกม:\n  - ใกล้: มุมมองสูงสุด\n  - ไกล: มุมมองระดับกลาง ใกล้เคียง iPhone และสูงขึ้นเล็กน้อย\n  - ไกลมาก: มุมมองใกล้เคียง iPad และสูงขึ้นเล็กน้อย\n• เพิ่มมุมมองสูงในเมนู แต่ยังมีบั๊กกับฮีโร่ที่ใช้สกิลซูมกล้อง\n• แก้ไขออโต้เอ็กคิ้วและฟาร์มป่าไม่ทำงาน",
+      "download": "packages/CHABA.3105",
+      "sha256": "4194ffe9f44ee95e04d3199884692c82aefce4ab8866be2ceb41bf23b9949cb9",
+      "size": 290990,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -26,8 +26,8 @@
       "encryption": {
         "format": "CBENC001",
         "revision": "1.64.1-clean-percent.20261029-r1",
-        "cipherSha256": "8810dba1ef4e4b17ee26a233266962b12b4e367de10163513d350dc23f2f3fe5",
-        "cipherSize": 287407,
+        "cipherSha256": "16bf3683b5618a8619f63a76dfd68bf978c0519bcda055a25861563c0c4ea9f1",
+        "cipherSize": 291263,
         "keyDelivery": "licensed-server-only"
       }
     },
