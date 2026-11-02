@@ -7,14 +7,14 @@
     {
       "identifier": "chaba-clean-percent",
       "kind": "patch",
-      "name": "CHABA",
+      "name": "CHABA HACKMAP",
       "author": "CHABA",
-      "version": "1.64.1-chaba-noslider.20261101-r2",
-      "summary": "ROV CHABA",
-      "description": "• แก้ไขเมนูให้กดง่ายขึ้น\n• ปรับมุมมองในตั้งค่าเกม:\n  - ใกล้: มุมมองสูงสุด\n  - ไกล: มุมมองระดับกลาง ใกล้เคียง iPhone และสูงขึ้นเล็กน้อย\n  - ไกลมาก: มุมมองใกล้เคียง iPad และสูงขึ้นเล็กน้อย\n• เพิ่มมุมมองสูงในเมนู แต่ยังมีบั๊กกับฮีโร่ที่ใช้สกิลซูมกล้อง\n• แก้ไขออโต้เอ็กคิ้วและฟาร์มป่าไม่ทำงาน",
+      "version": "1.64.1-hackmap-rememberkey.20261102-r1",
+      "summary": "ROV CHABA HACKMAP",
+      "description": "• แก้ไขเมนูให้กดง่ายขึ้น\n• ปรับมุมมองในตั้งค่าเกม:\n  - ใกล้: มุมมองสูงสุด\n  - ไกล: มุมมองระดับกลาง ใกล้เคียง iPhone และสูงขึ้นเล็กน้อย\n  - ไกลมาก: มุมมองใกล้เคียง iPad และสูงขึ้นเล็กน้อย\n• เพิ่มมุมมองสูงในเมนู แต่ยังมีบั๊กกับฮีโร่ที่ใช้สกิลซูมกล้อง\n• แก้ไขออโต้เอ็กคิ้วและฟาร์มป่าไม่ทำงาน\n• จดจำคีย์ล่าสุดที่ตรวจผ่านและเติมในช่อง ต้องกดยืนยันเอง",
       "download": "protected/packages/chaba-clean-percent-1.64.1-clean-percent.20261029-r1.3105",
-      "sha256": "4194ffe9f44ee95e04d3199884692c82aefce4ab8866be2ceb41bf23b9949cb9",
-      "size": 290990,
+      "sha256": "570152b846cbb48258a49b6022a43f38f54c81ecf7dafce5e293e064b5c19d27",
+      "size": 294298,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -26,8 +26,8 @@
       "encryption": {
         "format": "CBENC001",
         "revision": "1.64.1-clean-percent.20261029-r1",
-        "cipherSha256": "16bf3683b5618a8619f63a76dfd68bf978c0519bcda055a25861563c0c4ea9f1",
-        "cipherSize": 291263,
+        "cipherSha256": "09f2d2566598604ad0fc10608b22eee0e1c1ecb6a301c64d770d7e82c0eced44",
+        "cipherSize": 294571,
         "keyDelivery": "licensed-server-only"
       }
     },
@@ -36,12 +36,12 @@
       "kind": "patch",
       "name": "CHABA ESP",
       "author": "CHABA",
-      "version": "1.64.1-esp.20261101-r5",
+      "version": "1.64.1-esp-rememberkey-stability.20261102-r8",
       "summary": "ESP",
-      "description": "ESP",
+      "description": "ESP\n• จดจำคีย์ล่าสุดที่ตรวจผ่าน ต้องกดยืนยันเอง\n• เพิ่มจุดครีปศัตรูสีแดง\n• แก้การใช้งานไอคอนที่เกมลบไปแล้ว และคืน Texture เมื่อโหลดภาพไม่สำเร็จ\n• ลดรอบงาน ESP: ฮีโร่ประมาณ 60 ครั้ง/วินาที จุดครีป 20 ครั้ง/วินาที และ HP 15 ครั้ง/วินาที",
       "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/protected/packages/CHABA%20ESP.3105",
-      "sha256": "27c93d4107ed53b39e27312d302fa2557a28d9226b0d10081cd94a924431d1b9",
-      "size": 317846,
+      "sha256": "f56ea8387d725a1068172b2807a083b081e9e1f28bbba8503e3445f25addc7c2",
+      "size": 330550,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -53,8 +53,8 @@
       "encryption": {
         "format": "CBENC001",
         "revision": "1.64.1-esp.20261101-r5",
-        "cipherSha256": "5c661011565141b6c3fa5f553a2c625e80d40ae47f1a07d5489115fb7d6ce1bf",
-        "cipherSize": 318099,
+        "cipherSha256": "a514ade60f27af4bf2aa6943d35697ece37d1cfa5118caff4e9cac260a49e5f4",
+        "cipherSize": 330803,
         "keyDelivery": "licensed-server-only"
       }
     }
