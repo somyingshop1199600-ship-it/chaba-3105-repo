@@ -36,10 +36,10 @@
       "kind": "patch",
       "name": "CHABA ESP",
       "author": "CHABA",
-      "version": "1.64.1-esp-stability-clean.20261104-r1",
+      "version": "1.64.1-esp-stability-clean.20261104-r2",
       "summary": "ESP",
       "description": "ESP\n• จดจำคีย์ล่าสุดที่ตรวจผ่าน ต้องกดยืนยันเอง\n• เพิ่มจุดครีปศัตรูสีแดง\n• แก้การใช้งานไอคอนที่เกมลบไปแล้ว และคืน Texture เมื่อโหลดภาพไม่สำเร็จ\n• ลดรอบงาน ESP: ฮีโร่ประมาณ 60 ครั้ง/วินาที จุดครีป 20 ครั้ง/วินาที และ HP 15 ครั้ง/วินาที\n• ตรวจคีย์ตอนกดยืนยันหลังเปิดเกมใหม่ ไม่ตรวจซ้ำระหว่างเล่น ใช้เวลาหมดอายุที่ตรวจผ่านล่าสุด\n• หมดเวลาแล้วล็อกแพตช์และแสดงหน้าหมดอายุแบบเต็มจอสำหรับบล็อกการกด\n• การยกเลิกคีย์ก่อนกำหนดจะตรวจพบเมื่อเปิดเกมใหม่และตรวจคีย์อีกครั้ง\n• ปรับความเสถียรของแพตช์",
-      "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/protected/packages/CHABA%20ESP.3105",
+      "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/packages/CHABA-ESP-Stability-Clean-20261104.3105",
       "sha256": "679ddec8a95dc37d9b87286de385a963758252340b2576461da8e0a731fdf908",
       "size": 333238,
       "supportedOS": [
@@ -49,14 +49,7 @@
         }
       ],
       "featured": false,
-      "isPrivate": false,
-      "encryption": {
-        "format": "CBENC001",
-        "revision": "1.64.1-esp.20261101-r5",
-        "cipherSha256": "6a482511cccc5a08421e4db2f1982a02795def88710c176fd1c868ce77aa9fb1",
-        "cipherSize": 333491,
-        "keyDelivery": "licensed-server-only"
-      }
+      "isPrivate": false
     }
   ],
   "icon": "assets/repo-icon-20261028.jpg"
