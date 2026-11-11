@@ -5,36 +5,16 @@
   "description": "แพ็กเกจสำหรับ CHABA",
   "packages": [
     {
-      "identifier": "chaba-clean-percent",
+      "identifier": "chaba-esp-hackmap-switch",
       "kind": "patch",
-      "name": "CHABA HACKMAP",
+      "name": "CHABA ESP + HACKMAP TEST",
       "author": "CHABA",
-      "version": "1.64.1-hackmap-stability-clean.20261104-r2",
-      "summary": "ROV CHABA HACKMAP",
-      "description": "• แก้ไขเมนูให้กดง่ายขึ้น\n• ปรับมุมมองในตั้งค่าเกม:\n  - ใกล้: มุมมองสูงสุด\n  - ไกล: มุมมองระดับกลาง ใกล้เคียง iPhone และสูงขึ้นเล็กน้อย\n  - ไกลมาก: มุมมองใกล้เคียง iPad และสูงขึ้นเล็กน้อย\n• เพิ่มมุมมองสูงในเมนู แต่ยังมีบั๊กกับฮีโร่ที่ใช้สกิลซูมกล้อง\n• แก้ไขออโต้เอ็กคิ้วและฟาร์มป่าไม่ทำงาน\n• จดจำคีย์ล่าสุดที่ตรวจผ่านและเติมในช่อง ต้องกดยืนยันเอง\n• ตรวจคีย์ตอนกดยืนยันหลังเปิดเกมใหม่ ไม่ตรวจซ้ำระหว่างเล่น ใช้เวลาหมดอายุที่ตรวจผ่านล่าสุด\n• หมดเวลาแล้วล็อกแพตช์และแสดงหน้าหมดอายุแบบเต็มจอสำหรับบล็อกการกด\n• การยกเลิกคีย์ก่อนกำหนดจะตรวจพบเมื่อเปิดเกมใหม่และตรวจคีย์อีกครั้ง\n• ปรับความเสถียรของแพตช์",
-      "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/packages/CHABA-HACKMAP-Stability-Clean-20261104.3105",
-      "sha256": "d6f7e1c81b81a779e454f4abaaf91fd74149d6670bd8b63a343073f613053cfb",
-      "size": 296746,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "99.0"
-        }
-      ],
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "chaba-esp",
-      "kind": "patch",
-      "name": "CHABA ESP",
-      "author": "CHABA",
-      "version": "1.64.1-esp-stability-clean.20261104-r2",
-      "summary": "ESP",
-      "description": "ESP\n• จดจำคีย์ล่าสุดที่ตรวจผ่าน ต้องกดยืนยันเอง\n• เพิ่มจุดครีปศัตรูสีแดง\n• แก้การใช้งานไอคอนที่เกมลบไปแล้ว และคืน Texture เมื่อโหลดภาพไม่สำเร็จ\n• ลดรอบงาน ESP: ฮีโร่ประมาณ 60 ครั้ง/วินาที จุดครีป 20 ครั้ง/วินาที และ HP 15 ครั้ง/วินาที\n• ตรวจคีย์ตอนกดยืนยันหลังเปิดเกมใหม่ ไม่ตรวจซ้ำระหว่างเล่น ใช้เวลาหมดอายุที่ตรวจผ่านล่าสุด\n• หมดเวลาแล้วล็อกแพตช์และแสดงหน้าหมดอายุแบบเต็มจอสำหรับบล็อกการกด\n• การยกเลิกคีย์ก่อนกำหนดจะตรวจพบเมื่อเปิดเกมใหม่และตรวจคีย์อีกครั้ง\n• ปรับความเสถียรของแพตช์",
-      "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/packages/CHABA-ESP-Stability-Clean-20261104.3105",
-      "sha256": "679ddec8a95dc37d9b87286de385a963758252340b2576461da8e0a731fdf908",
-      "size": 333238,
+      "version": "1.64.1-esp-hackmap-switch.20261111",
+      "summary": "ESP + HACKMAP",
+      "description": "สลับ ESP กับ HACKMAP ได้ทีละโหมด นำตัวเลขคูลดาวน์และบักสกิลออก",
+      "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/packages/CHABA_ESP_HACKMAP_Switch_TEST_1.64.1.3105",
+      "sha256": "4d60185335c1cabb4ade6f61a41e7a33c04c52478a9b9124a2226b1d0494870f",
+      "size": 325623,
       "supportedOS": [
         {
           "minimum": "17.0",
