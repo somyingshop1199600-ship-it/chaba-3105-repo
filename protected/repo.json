@@ -7,14 +7,14 @@
     {
       "identifier": "chaba-esp-hackmap-switch",
       "kind": "patch",
-      "name": "CHABA ESP + HACKMAP TEST",
+      "name": "CHABASHOP R8",
       "author": "CHABA",
-      "version": "1.64.1-esp-hackmap-switch.20261111",
-      "summary": "ESP + HACKMAP",
-      "description": "สลับ ESP กับ HACKMAP ได้ทีละโหมด นำตัวเลขคูลดาวน์และบักสกิลออก",
-      "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/packages/CHABA_ESP_HACKMAP_Switch_TEST_1.64.1.3105",
-      "sha256": "4d60185335c1cabb4ade6f61a41e7a33c04c52478a9b9124a2226b1d0494870f",
-      "size": 325623,
+      "version": "1.64.1-chabashop-auto-r8.20261112",
+      "summary": "CHABASHOP R8 · ESP + HACKMAP",
+      "description": "สลับ ESP กับ HACKMAP ได้ทีละโหมด ลากย้ายเมนูได้จากแถบชื่อ และปรับแท็บ Auto ให้เหลือสวิตช์ไอเทม 8 ตัว",
+      "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/packages/CHABASHOP_AUTO_R8_TEST_1.64.1.3105",
+      "sha256": "95d2abe4a816bbcd7c9934366bd75d234df3afc2871c14576cbf2af4a3a72b79",
+      "size": 1698822,
       "supportedOS": [
         {
           "minimum": "17.0",
