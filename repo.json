@@ -7,14 +7,14 @@
     {
       "identifier": "chaba-esp-hackmap-switch",
       "kind": "patch",
-      "name": "CHABASHOP R8",
+      "name": "CHABASHOP R9",
       "author": "CHABA",
-      "version": "1.64.1-chabashop-auto-r8.20261112",
-      "summary": "CHABASHOP R8 · ESP + HACKMAP",
-      "description": "สลับ ESP กับ HACKMAP ได้ทีละโหมด ลากย้ายเมนูได้จากแถบชื่อ และปรับแท็บ Auto ให้เหลือสวิตช์ไอเทม 8 ตัว",
-      "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/packages/CHABASHOP_AUTO_R8_TEST_1.64.1.3105",
-      "sha256": "95d2abe4a816bbcd7c9934366bd75d234df3afc2871c14576cbf2af4a3a72b79",
-      "size": 1698822,
+      "version": "1.64.1-chabashop-no-kill-feed-r9.20261112",
+      "summary": "CHABASHOP R9 · ESP + HACKMAP",
+      "description": "นำโค้ดปรับ Kill Feed ออก ให้เกมใช้การแจ้งเตือนการฆ่าเดิม",
+      "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/packages/CHABASHOP_NO_KILL_FEED_R9_TEST_1.64.1.3105",
+      "sha256": "b1bc89a4aeb582c1fd75cfb7f52520633805bb6b87e4e06ed04e6944bbdee72f",
+      "size": 1690438,
       "supportedOS": [
         {
           "minimum": "17.0",
