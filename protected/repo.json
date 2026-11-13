@@ -7,14 +7,14 @@
     {
       "identifier": "chaba-esp-hackmap-switch",
       "kind": "patch",
-      "name": "CHABASHOP R9",
+      "name": "CHABASHOP R9 V2",
       "author": "CHABA",
-      "version": "1.64.1-chabashop-no-kill-feed-r9.20261112",
-      "summary": "CHABASHOP R9 · ESP + HACKMAP",
+      "version": "1.64.1-chabashop-no-kill-feed-r9-v2.20261113",
+      "summary": "CHABASHOP R9 V2 · ESP + HACKMAP",
       "description": "นำโค้ดปรับ Kill Feed ออก ให้เกมใช้การแจ้งเตือนการฆ่าเดิม",
-      "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/packages/CHABASHOP_NO_KILL_FEED_R9_TEST_1.64.1.3105",
-      "sha256": "b1bc89a4aeb582c1fd75cfb7f52520633805bb6b87e4e06ed04e6944bbdee72f",
-      "size": 1690438,
+      "download": "https://raw.githubusercontent.com/somyingshop1199600-ship-it/chaba-3105-repo/main/packages/CHABASHOP_NO_KILL_FEED_R9_TEST_1.64.1_V2.3105",
+      "sha256": "6221b7abf026be72f5cef340410dd1cc8a26d069f1ebe9e5b7fd4e71b1aac102",
+      "size": 1690446,
       "supportedOS": [
         {
           "minimum": "17.0",
