@@ -1,0 +1,1 @@
+CHABA V31Protected catalog. The catalog is public; package bytes require the selected Build 1508 V31Protected client proof and a valid license. Legacy package and key-release endpoints are retired. Historical patch files are retained privately, not served by this repository.
