@@ -7,14 +7,14 @@
     {
       "identifier": "chaba-esp-hackmap-switch",
       "kind": "patch",
-      "name": "CHABASHOP V3.1",
+      "name": "CHABASHOP V3.2",
       "author": "CHABA",
-      "version": "1.64.1-chabashop-v3.1.build1508-v31",
-      "summary": "CHABASHOP V3.1 · Build 1508 V31Protected",
-      "description": "Requires the revised Build 1508 V31Protected IPA. Older unmodified builds cannot download this package.",
+      "version": "1.64.1-chabashop-v3.2.20261126.build1508-v31",
+      "summary": "CHABASHOP V3.2 · New original HeroSkin base · R7 menu",
+      "description": "New original HeroSkin resources with the existing R7 menu and functions. Requires Build 1508 V31Protected.",
       "download": "https://chaba-private-delivery.peachycarp128.chatgpt.site/v3/1508-v31/packages/CHABASHOP_V3_1.3105",
-      "sha256": "444432e8fe374e729307317370108116841d438cc876ec42d435a5a275f2e024",
-      "size": 2036651,
+      "sha256": "8921357040bd32b96298af2e6daff992576c93471534ce5e2a3f3bc8571d46e4",
+      "size": 2050635,
       "supportedOS": [
         {
           "minimum": "17.0",
