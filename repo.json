@@ -7,14 +7,14 @@
     {
       "identifier": "chaba-esp-hackmap-switch",
       "kind": "patch",
-      "name": "CHABASHOP V3.2",
+      "name": "CHABASHOP V3.3",
       "author": "CHABA",
-      "version": "1.64.1-chabashop-v3.2.20261126.build1508-v31",
-      "summary": "CHABASHOP V3.2 · New original HeroSkin base · R7 menu",
-      "description": "New original HeroSkin resources with the existing R7 menu and functions. Requires Build 1508 V31Protected.",
+      "version": "1.64.1-chabashop-v3.3.20261127.build1508-v31",
+      "summary": "CHABASHOP V3.3 · Purple menu · THORNE",
+      "description": "Updated purple menu, THORNE portrait and recall-aware macro. Requires Build 1508 V31Protected.",
       "download": "https://chaba-private-delivery.peachycarp128.chatgpt.site/v3/1508-v31/packages/CHABASHOP_V3_1.3105",
-      "sha256": "8921357040bd32b96298af2e6daff992576c93471534ce5e2a3f3bc8571d46e4",
-      "size": 2050635,
+      "sha256": "15288a5533e87a3c9fb31479184b3fdbe42a074bb8835b2e6bfb951c44fe2f00",
+      "size": 2159019,
       "supportedOS": [
         {
           "minimum": "17.0",
