@@ -7,14 +7,14 @@
     {
       "identifier": "chaba-esp-hackmap-switch",
       "kind": "patch",
-      "name": "CHABASHOP V3.3",
+      "name": "CHABASHOP V3.4",
       "author": "CHABA",
-      "version": "1.64.1-chabashop-v3.3.20261127.build1508-v31",
-      "summary": "CHABASHOP V3.3 · Purple menu · THORNE",
-      "description": "Updated purple menu, THORNE portrait and recall-aware macro. Requires Build 1508 V31Protected.",
+      "version": "1.64.1-chabashop-v3.4.20261129.build1508-v31",
+      "summary": "CHABASHOP V3.4 · BILLOW S2 · BIJAN · THORNE",
+      "description": "R38: Billow S2 within 10 seconds after the latest attack, updated hero artwork and red login warning. Requires Build 1508 V31Protected.",
       "download": "https://chaba-private-delivery.peachycarp128.chatgpt.site/v3/1508-v31/packages/CHABASHOP_V3_1.3105",
-      "sha256": "15288a5533e87a3c9fb31479184b3fdbe42a074bb8835b2e6bfb951c44fe2f00",
-      "size": 2159019,
+      "sha256": "1430a929044a89c7119af3611dc8dc15b9904cfbbba83771aed108bb260517e9",
+      "size": 2528171,
       "supportedOS": [
         {
           "minimum": "17.0",
